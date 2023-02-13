@@ -4,7 +4,7 @@ import time
 
 #Usando um comando de repetição, fiz com que o código prenchesse uma planilha com valores pré-determinados e dps limpasse
 # Print da planilha ⇨ (https://prnt.sc/8iHUBjDwLtgF)
-# Print de como o processo funcionaria na platica ⇨ (https://prnt.sc/Sp-fdKX5Seg6)
+# Print de como o processo funcionaria na pratica ⇨ (https://prnt.sc/Sp-fdKX5Seg6)
 
 
 
